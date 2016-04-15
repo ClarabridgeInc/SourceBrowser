@@ -3,10 +3,11 @@
   <PropertyGroup>
     <ProjectGuid>{F13CD277-E86B-4BC6-9E93-39ED055A46DB}</ProjectGuid>
     <AssemblyName>Microsoft.SourceBrowser.Common</AssemblyName>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <Import Project="..\..\Common.props" />
   <PropertyGroup>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.Build, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
